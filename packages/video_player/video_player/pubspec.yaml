@@ -35,7 +35,7 @@ dependencies:
     git:
       url: https://github.com/found-mvpro/plugins.git
       path: packages/video_player/video_player_web
-      ref: 819f64fb8
+      ref: 42835cc16
   html: ^0.15.0
 
 dev_dependencies:
